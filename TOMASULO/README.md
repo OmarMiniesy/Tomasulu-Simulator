@@ -1,7 +1,3 @@
-# Omar Miniesy 900202087
-
-# Ziad Miniesy 900202283
-
 ### For Stores and Loads, the starting address is added to the offset directly after parsing
 
 ### ASSUME PROGRAM IS CORRECT WITH NO ERRORS

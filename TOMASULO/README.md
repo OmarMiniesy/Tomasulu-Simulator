@@ -2,4 +2,4 @@
 
 ### ASSUME PROGRAM IS CORRECT WITH NO ERRORS
 
-### We were supposed to prevent changes in R0 by checking the destination register in the execute function. It did not work and stopped execution from happening and we had no time to fix. Left as is and assumed that its value stays 0.
+### Value of R0 is not fixed to 0.

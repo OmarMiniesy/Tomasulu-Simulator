@@ -1,0 +1,3 @@
+May 20 initializing functions 
+May 21 Executing 
+May 22 Write back
